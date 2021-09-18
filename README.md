@@ -5,5 +5,11 @@ The app can be visited at https://bostonhousing.herokuapp.com/
 
 Screenshots of the web app:
 
-
-![InputParameters](https://github.com/[Shivanu-88]/[BostonHousing]/blob/[main]/ss1.jpg?raw=true)
+<table style="width:100%">
+  <tr>
+    <th><img src="img/ss1.png" width=200/></th>
+    <th><img src="img/ss2.png" width=200/></th>
+    <th><img src="img/ss3.png" width=200/></th>
+    <th><img src="img/ss4.png" width=200/></th>
+  </tr>
+ </table>
