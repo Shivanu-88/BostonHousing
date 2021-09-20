@@ -16,6 +16,15 @@ Screenshots of the web app:
   </tr>
  </table>
  
+ 
+ # Flow Chart
+ 
+ <table style="width:100%">
+  <tr>
+    <th><img src="img/BostonHousing Project.png" width=200/></th>
+  </tr>
+ </table>
+ 
 # Data description
 
 
