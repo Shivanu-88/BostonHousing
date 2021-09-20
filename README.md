@@ -21,9 +21,10 @@ Screenshots of the web app:
  
  <table style="width:100%">
   <tr>
-    <th><img src="img/BostonHousing Project.png" width=200/></th>
+    <th><img src="img/ss5.png" width=200/></th>
   </tr>
  </table>
+ 
  
 # Data description
 
