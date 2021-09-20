@@ -8,7 +8,7 @@ Screenshots of the web app:
 <table style="width:100%">
   <tr>
     <th><img src="img/ss1.png" width=200/></th>
-    <th><img src="img/ss2.png" width=200/></th>
+    <th><img src="img/ss2.png" width=400/></th>
   </tr>
   <tr>
     <th><img src="img/ss3.png" /></th>
